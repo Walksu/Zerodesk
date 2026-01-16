@@ -3,12 +3,12 @@
 </p>
 
 <p align="center">
-  <a href="#README">
-    <img src="https://github.com/Walksu/Zerodesk" alt="中文">
+  <a href="https://github.com/Walksu/Zerodesk">
+    <img src="https://img.shields.io/badge/🇨🇳%20中文-brightgreen?style=for-the-badge" alt="中文">
   </a>
   &nbsp;&nbsp;
-  <a href="README_EN.md">
-    <img src="https://github.com/Walksu/Zerodesk-EN" alt="English">
+  <a href="https://github.com/Walksu/Zerodesk-EN">
+    <img src="https://img.shields.io/badge/🇬🇧%20English-blue?style=for-the-badge" alt="English">
   </a>
 </p>
 
