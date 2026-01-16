@@ -2,6 +2,16 @@
   <img src="http://xinghehuimeng.com.cn/api/resources/zerodesk/banner1.png" alt="zerodesk banner" width="100%">
 </p>
 
+<p align="center">
+  <a href="#README">
+    <img src="https://github.com/Walksu/Zerodesk" alt="中文">
+  </a>
+  &nbsp;&nbsp;
+  <a href="README_EN.md">
+    <img src="https://github.com/Walksu/Zerodesk-EN" alt="English">
+  </a>
+</p>
+
 <h1 align="center">Zerodesk</h1>
 
 <p align="center">
